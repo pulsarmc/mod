@@ -10,9 +10,7 @@ public class ModItems {
     public static final DeferredRegister.Items ITEMS =
         DeferredRegister.createItems(Pulsar.MODID);
 
-    public static final DeferredItem<BlockItem> EXAMPLE_BLOCK_ITEM =
-        ITEMS.registerSimpleBlockItem(ModBlocks.EXAMPLE_BLOCK);
+    public static final DeferredItem<BlockItem> BAUXITE_ORE_ITEM =
+        ITEMS.registerSimpleBlockItem(ModBlocks.BAUXITE_ORE);
 
-    public static final DeferredItem<Item> EXAMPLE_ITEM =
-        ITEMS.registerSimpleItem("example_item");
 }

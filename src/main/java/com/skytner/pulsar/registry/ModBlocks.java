@@ -11,10 +11,10 @@ public class ModBlocks {
     public static final DeferredRegister.Blocks BLOCKS =
         DeferredRegister.createBlocks(Pulsar.MODID);
 
-    public static final DeferredBlock<Block> EXAMPLE_BLOCK =
-        BLOCKS.registerSimpleBlock("example_block",
+    public static final DeferredBlock<Block> BAUXITE_ORE =
+        BLOCKS.registerSimpleBlock("bauxite_ore",
             BlockBehaviour.Properties.of()
-                .strength(3.0f)
+                .strength(6.0f)
                 .sound(SoundType.STONE)
                 .requiresCorrectToolForDrops()
         );
