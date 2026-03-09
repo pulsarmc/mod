@@ -1,0 +1,13 @@
+{
+  "itemGroup.pulsar": "Pulsar Mod Tab",
+  "block.pulsar.example_block": "Example Block",
+  "item.pulsar.example_item": "Example Item",
+
+  "pulsar.configuration.title": "Pulsar Mod Configs",
+  "pulsar.configuration.section.pulsar.common.toml": "Pulsar Mod Configs",
+  "pulsar.configuration.section.pulsar.common.toml.title": "Pulsar Mod Configs",
+  "pulsar.configuration.items": "Item List",
+  "pulsar.configuration.logDirtBlock": "Log Dirt Block",
+  "pulsar.configuration.magicNumberIntroduction": "Magic Number Text",
+  "pulsar.configuration.magicNumber": "Magic Number"
+}
